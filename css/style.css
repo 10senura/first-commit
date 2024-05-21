@@ -1,0 +1,35 @@
+j/@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+body{
+    background-image: url(/photos/img\ 1\ black\ gtr.jpg);
+    background-position:center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+body{
+}
+h1{
+    color: rgb(0, 7, 7); background-color: black;text-align: center;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal; 
+}
+p{
+    color: rgb(245, 245, 249);
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal; 
+
+}
+#SENURAID{
+    color: cornflowerblue;
+
+}
+.GTR_class{
+    color: blue;
+
+}
